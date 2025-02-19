@@ -17,7 +17,6 @@ Our research demonstrates marked improvements in service metrics and positive en
 ## Publication
 
 This work was presented at the 3rd IEEE International Conference on Artificial Intelligence for Internet of Things (AIIOT) 2024.
-
 For more details, please refer to our paper in IEEE Xplore:
 [Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699)
 
